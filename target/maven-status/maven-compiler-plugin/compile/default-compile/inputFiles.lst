@@ -1,4 +1,5 @@
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/fundamentals/SegmentedList.java
+/__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/sorting/SortLinkedList.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/searching/BinarySearchTree.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/graphs/MineClimbingInstanceGenerator.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/sorting/GlobalWarmingImpl.java
@@ -55,8 +56,8 @@
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/graphs/TaskScheduler.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/graphs/GlobalWarmingPaths.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/sorting/BinaryHeap.java
-/__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/searching/BinarySearchTreeGenerator.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/searching/ArrayBSTDelete.java
+/__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/searching/BinarySearchTreeGenerator.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/graphs/Wildfire.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/sorting/Union.java
 /__w/algorithms_exercises/algorithms_exercises/algorithms_exercises_students/src/main/java/sorting/ClosestPairGenerator.java

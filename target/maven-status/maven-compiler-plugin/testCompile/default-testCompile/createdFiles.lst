@@ -28,8 +28,8 @@ graphs/ConnectedComponentsTest.class
 searching/ArcadeRankingTest$MyPlayers.class
 searching/CandiesBagTest.class
 graphs/TrainsTest.class
-graphs/TaskSchedulerTest.class
 fundamentals/LinkedChainTest.class
+graphs/TaskSchedulerTest.class
 sorting/DroneContestTest.class
 strings/RabinKarpTest.class
 sorting/RadixSortTest.class
@@ -47,9 +47,10 @@ searching/SkylineTest.class
 searching/ArrayBSTTest.class
 sorting/MergeSortTest.class
 strings/IncrementalHashTest.class
+sorting/SortLinkedListTest.class
+sorting/BinaryHeapTest.class
 sorting/MedianHeapTest.class
 sorting/PancakeSortingTest.class
-sorting/BinaryHeapTest.class
 searching/RedBlackTreeConverterTest.class
 graphs/DepthFirstPathsTest.class
 strings/AutoCompleterTest.class
